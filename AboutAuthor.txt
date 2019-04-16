@@ -1,0 +1,10 @@
+I'm Demien Blogan, and this is my first completed console game project.
+My contacts:
+GMAIL:     bulled48@gmail.com
+FACEBOOK:  https://vk.com/demien.blogan
+INSTAGRAM: https://www.instagram.com/demien.blogan/
+Hope you'll enjoy this classic game.
+I'll try to update this game my own features.
+If you found problems in code or in program, text me, please.
+
+VERSION: 1.0
